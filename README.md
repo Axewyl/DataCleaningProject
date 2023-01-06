@@ -67,3 +67,6 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 ## Выводы
 
 Допишите выводы по проделанной работе.
+
+
+Добавил от себя
