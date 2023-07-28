@@ -62,7 +62,7 @@ git clone https://github.com/SkillfactoryDS/DataCleaningProject
 
 ## Авторы
 
-* [Укажите свое имя](ссылка на ваши соц сети)
+* [Andrey](https://t.me/Axewyl)
 
 ## Выводы
 
